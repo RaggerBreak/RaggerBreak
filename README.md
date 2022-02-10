@@ -1,6 +1,14 @@
 # Projects
 
 - [eDiary](https://github.com/Sekarre/eDiary) (Spring Framework) <-- Description
+- [password wallet](https://github.com/RaggerBreak/bsi-password-wallet) (Spring Framework, Angular) <-- Description
+
+
+### Docker/Cloud
+- [pwcho-zad1](https://github.com/RaggerBreak/pwcho-zad1) (Spring Framework, Angular, Microservices, GitHub Actions, AWS)
+- [pwcho-lab8](https://github.com/RaggerBreak/pwcho-lab8) (Travis, AWS)
+- [simpleclock](https://github.com/RaggerBreak/simpleclock) (Docker, Java, Spring Framework)
+- [pwcho-zad2](https://github.com/RaggerBreak/pwcho-zad2) (GitHub Actions)
 
 ## Microservices (Spring Cloud)
 - mssc-beer-service
@@ -28,3 +36,9 @@
 - [mongo-recipe-app](https://github.com/RaggerBreak/spring5-mongo-recipe-app) 
 - [mvc-rest](https://github.com/RaggerBreak/spring5-mvc-rest)
 - [webflux-rest](https://github.com/RaggerBreak/spring5-webflux-rest)
+
+## Flutter
+- [foxinder](https://github.com/RaggerBreak/foxinder) (Flutter, Dart)
+- [telparking](https://github.com/RaggerBreak/telparking) (Flutter, Dart)
+- [dictionary_pam](https://github.com/RaggerBreak/dictionary_pam) (Flutter, Dart)
+- [internationalization_pam](https://github.com/RaggerBreak/internationalization_pam) (Flutter, Dart)
