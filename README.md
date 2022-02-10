@@ -10,6 +10,11 @@
 - [simpleclock](https://github.com/RaggerBreak/simpleclock) (Docker, Java, Spring Framework)
 - [pwcho-zad2](https://github.com/RaggerBreak/pwcho-zad2) (GitHub Actions)
 
+### ecommerce shop
+> [ecommerce-l2-backend](https://github.com/RaggerBreak/ecommerce-l2-backend) (Spring Framework)\
+> [ecommerce-l2-frontend](https://github.com/RaggerBreak/ecommerce-l2-frontend) (Angular, TypeScript)
+
+
 ## Microservices (Spring Cloud)
 - mssc-beer-service
     - [Brewery](https://github.com/RaggerBreak/mssc-beer-service) Main service <-- Technologies
