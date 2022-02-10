@@ -7,8 +7,8 @@
 ### Docker/Cloud
 - [pwcho-zad1](https://github.com/RaggerBreak/pwcho-zad1) (Spring Framework, Angular, Microservices, GitHub Actions, AWS)
 - [pwcho-lab8](https://github.com/RaggerBreak/pwcho-lab8) (Travis, AWS)
-- [simpleclock](https://github.com/RaggerBreak/simpleclock) (Docker, Java, Spring Framework)
 - [pwcho-zad2](https://github.com/RaggerBreak/pwcho-zad2) (GitHub Actions)
+- [simpleclock](https://github.com/RaggerBreak/simpleclock) (Docker, Java, Spring Framework)
 
 ### ecommerce shop
 > [ecommerce-l2-backend](https://github.com/RaggerBreak/ecommerce-l2-backend) (Spring Framework)\
@@ -17,22 +17,22 @@
 
 ## Microservices (Spring Cloud)
 - mssc-beer-service
-    - [Brewery](https://github.com/RaggerBreak/mssc-beer-service) Main service <-- Technologies
-    - [Brewery Beer Order](https://github.com/RaggerBreak/mssc-beer-order-service) Service
-    - [Brewery Beer Inventory](https://github.com/RaggerBreak/mssc-beer-inventory-service) Service
-    - [Brewery Beer Inventory Failover](https://github.com/RaggerBreak/mssc-inventory-failover) Service
-    - [Brewery Configuration](https://github.com/RaggerBreak/mssc-config-server) Config server
-    - [Brewery Eureka](https://github.com/RaggerBreak/mssc-brewery-eureka) Eureka server
-    - [Brewery Gateway](https://github.com/RaggerBreak/mssc-brewery-gateway) Gateway service
-    - [Brewery Config](https://github.com/RaggerBreak/mssc-brewery-config-repo) Configuration service
+    > [Brewery](https://github.com/RaggerBreak/mssc-beer-service) Main service <-- Technologies\
+    > [Brewery Beer Order](https://github.com/RaggerBreak/mssc-beer-order-service) Service\
+    > [Brewery Beer Inventory](https://github.com/RaggerBreak/mssc-beer-inventory-service) Service\
+    > [Brewery Beer Inventory Failover](https://github.com/RaggerBreak/mssc-inventory-failover) Service\
+    > [Brewery Configuration](https://github.com/RaggerBreak/mssc-config-server) Config server\
+    > [Brewery Eureka](https://github.com/RaggerBreak/mssc-brewery-eureka) Eureka server\
+    > [Brewery Gateway](https://github.com/RaggerBreak/mssc-brewery-gateway) Gateway service\
+    > [Brewery Config](https://github.com/RaggerBreak/mssc-brewery-config-repo) Configuration service
     
 - [Spring State Machine](https://github.com/RaggerBreak/mssc-ssm) (SAGA)
 
 ## Spring Boot Microservices with CQRS & Event Sourcing
 - Springbank
-    - [sc-bank-user-management](https://github.com/RaggerBreak/sc-bank-user-management) <-- Technologies
-    - [sc-bank-b-account](https://github.com/RaggerBreak/sc-bank-b-account)
-    - [sc-bank-api-gateway](https://github.com/RaggerBreak/sc-bank-api-gateway)
+    > [sc-bank-user-management](https://github.com/RaggerBreak/sc-bank-user-management) <-- Technologies\
+    > [sc-bank-b-account](https://github.com/RaggerBreak/sc-bank-b-account)\
+    > [sc-bank-api-gateway](https://github.com/RaggerBreak/sc-bank-api-gateway)
     
 ## Spring Framework
 - [sfg-pet-clinic](https://github.com/RaggerBreak/sfg-pet-clinic)
