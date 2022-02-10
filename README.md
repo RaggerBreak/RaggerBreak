@@ -1,35 +1,30 @@
 # Projects
 
-## eDiary 
-- [REPO_URL](https://github.com/Sekarre/eDiary) <-- Description
+- [eDiary](https://github.com/Sekarre/eDiary) (Spring Framework) <-- Description
+
 ## Microservices (Spring Cloud)
 - mssc-beer-service
-
-    | Name | Description | Repo |
-    | :--- | :--- | :--- |
-    | Brewery | Main service | [REPO_URL](https://github.com/RaggerBreak/mssc-beer-service)  <-- Technologies|
-    | Brewery Beer Order | Service | [REPO_URL](https://github.com/RaggerBreak/mssc-beer-order-service) |
-    | Brewery Beer Inventory | Service | [REPO_URL](https://github.com/RaggerBreak/mssc-beer-inventory-service) |
-    | Brewery Beer Inventory Failover | Service | [REPO_URL](https://github.com/RaggerBreak/mssc-inventory-failover) |
-    | Brewery Configuration | Config server | [REPO_URL](https://github.com/RaggerBreak/mssc-config-server) |
-    | Brewery Eureka | Eureka server | [REPO_URL](https://github.com/RaggerBreak/mssc-brewery-eureka) |
-    | Brewery Gateway | Gateway service | [REPO_URL](https://github.com/RaggerBreak/mssc-brewery-gateway) |
-    | Brewery Config | Configuration | [REPO_URL](https://github.com/RaggerBreak/mssc-brewery-config-repo) |
+    - [Brewery](https://github.com/RaggerBreak/mssc-beer-service) Main service <-- Technologies
+    - [Brewery Beer Order](https://github.com/RaggerBreak/mssc-beer-order-service) Service
+    - [Brewery Beer Inventory](https://github.com/RaggerBreak/mssc-beer-inventory-service) Service
+    - [Brewery Beer Inventory Failover](https://github.com/RaggerBreak/mssc-inventory-failover) Service
+    - [Brewery Configuration](https://github.com/RaggerBreak/mssc-config-server) Config server
+    - [Brewery Eureka](https://github.com/RaggerBreak/mssc-brewery-eureka) Eureka server
+    - [Brewery Gateway](https://github.com/RaggerBreak/mssc-brewery-gateway) Gateway service
+    - [Brewery Config](https://github.com/RaggerBreak/mssc-brewery-config-repo) Configuration service
     
-- Spring State Machine(Saga): [REPO_URL](https://github.com/RaggerBreak/mssc-ssm) 
+- [Spring State Machine](https://github.com/RaggerBreak/mssc-ssm) (SAGA)
 
 ## Spring Boot Microservices with CQRS & Event Sourcing
-### Springbank
-- [sc-bank-user-management](https://github.com/RaggerBreak/sc-bank-user-management) <-- Technologies
-- [sc-bank-b-account](https://github.com/RaggerBreak/sc-bank-b-account)
-- [sc-bank-api-gateway](https://github.com/RaggerBreak/sc-bank-api-gateway)
+- Springbank
+    - [sc-bank-user-management](https://github.com/RaggerBreak/sc-bank-user-management) <-- Technologies
+    - [sc-bank-b-account](https://github.com/RaggerBreak/sc-bank-b-account)
+    - [sc-bank-api-gateway](https://github.com/RaggerBreak/sc-bank-api-gateway)
     
 ## Spring Framework
-
-- sfg-pet-clinic:   [REPO_URL](https://github.com/RaggerBreak/sfg-pet-clinic)
-- recipe-app:       [REPO_URL](https://github.com/RaggerBreak/spring5-recipe-app) 
-- ssc-brewery (Spring Security):  [REPO_URL](https://github.com/RaggerBreak/ssc-brewery) 
-- Other repositories for courses:
-    - mongo-recipe-app: [REPO_URL](https://github.com/RaggerBreak/spring5-mongo-recipe-app) 
-    - mvc-rest: [REPO_URL](https://github.com/RaggerBreak/spring5-mvc-rest)
-    - webflux-rest: [REPO_URL](https://github.com/RaggerBreak/spring5-webflux-rest)
+- [sfg-pet-clinic](https://github.com/RaggerBreak/sfg-pet-clinic)
+- [recipe-app](https://github.com/RaggerBreak/spring5-recipe-app) 
+- [ssc-brewery](https://github.com/RaggerBreak/ssc-brewery) (Spring Security)
+- [mongo-recipe-app](https://github.com/RaggerBreak/spring5-mongo-recipe-app) 
+- [mvc-rest](https://github.com/RaggerBreak/spring5-mvc-rest)
+- [webflux-rest](https://github.com/RaggerBreak/spring5-webflux-rest)
